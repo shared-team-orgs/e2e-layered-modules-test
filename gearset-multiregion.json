@@ -1,0 +1,8 @@
+{
+	"overlays": {
+		"core": ["core"],
+		"america": ["core", "america"],
+		"asia": ["core", "asia"],
+		"europe": ["core", "europe"]
+	}
+}
